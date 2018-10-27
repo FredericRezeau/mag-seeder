@@ -398,7 +398,7 @@ extern "C" void* ThreadStats(void*) {
 }
 
 static const string mainnet_seeds[] = {"satoshi.magnetwork.io", "satoshi.litemint.com", ""};
-static const string testnet_seeds[] = {"nakamoto.magnetwork.io", "nakamoto.litemint.com" ""};
+static const string testnet_seeds[] = {"nakamoto.magnetwork.io", "nakamoto.litemint.com", "magdnstest.litemint.com", ""};
 static const string *seeds = mainnet_seeds;
 
 extern "C" void* ThreadSeeder(void*) {
