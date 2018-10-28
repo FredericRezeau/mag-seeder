@@ -1,6 +1,8 @@
 mag-seeder
 ==============
 
+https://github.com/magnetwork/MAG
+
 mag-seeder is a crawler for the MAG network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
